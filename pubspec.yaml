@@ -16,6 +16,7 @@ dependencies:
   flutter_map_marker_popup:
     git:
       url: https://github.com/Harishwarrior/flutter_map_marker_popup
+      ref: cf36acb631e77e59a21984ad422f97b1ce638871
   latlong2: ^0.8.1
 
 dev_dependencies:
